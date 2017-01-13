@@ -76,7 +76,7 @@ This same document was checked on a newer computer ( Razer Blade Stealth vs. 4 y
 
 ## Known Issues
 
-* Only U.S. English supported
+* Only English & Spanish supported out of the box
 * Entire file is rechecked with each update
 
 ## TODO
